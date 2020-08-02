@@ -18,4 +18,4 @@ tomato
 sleep 1
 done
 
-notify-send $2
+notify-send "$2"
