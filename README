@@ -1,2 +1,6 @@
 A simple CLI pomodoro-style timer bash script thats easy to adapt
 for any platform. 
+Usage:
+'''
+$ bash tomatoes.sh 120 "remind me of meeting!"
+'''
